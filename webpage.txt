@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+.btn{
+background-color:#2563eb;
+color: white;
+padding: 12px 24px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font size: 16 px;
+}
+</style>
+</head>
+<body>
+
+<button class ="btn">Click down</button>
+<br>
+<a href="www.psgcas.in">psg cas</a>
+</body>
+</html>
+

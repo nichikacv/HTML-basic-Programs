@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> CREATE A PROTOFILE PAGE</title>
+<script>
+function InternalMsg(){
+alret("hello from internal js")}
+</script>
+</head>
+<body>
+<h2> WEB PAGE</h2>
+<button onclick ="alert('hello from inline js')">Inline JS </button>
+<button onclick="internal msg()">Internal js</button>
+<button onclick="externalMsg()">External JS</button>
+</body>
+</head>
+</html>

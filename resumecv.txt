@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #eee;
+        }
+
+        .resume {
+            width: 700px;
+            margin: 30px auto;
+            background: white;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #007bff;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="resume">
+
+    <h1>John Doe</h1>
+    <p>Email: johndoe@example.com</p>
+    <p>Phone: +91 9876543210</p>
+
+    <h2>Career Objective</h2>
+    <p>
+        To build a successful career in web development
+        and improve my technical skills.
+    </p>
+
+    <h2>Education</h2>
+    <p>Bachelor's Degree - ABC College</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Personal Portfolio</li>
+        <li>Calculator</li>
+        <li>To-Do List</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
